@@ -1,6 +1,6 @@
 # Microsoft Foundry Agent Workshop 🚀  
 
-**English** | **[Español](readme.es.md)** | **[Português](readme.pt.md)** | **[Français(readme.fr.md)]**
+**English** | **[Español](readme.es.md)** | **[Português](readme.pt.md)** | **[Français](readme.fr.md)**
 
 ![](./docs/public/banner.png)
 
