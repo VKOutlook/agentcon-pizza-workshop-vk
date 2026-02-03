@@ -16,9 +16,9 @@ El sistema consiste en múltiples servicios interconectados:
 
 |  Nombre | Descripción |
 |-----------|-------------|
-| Servidor MCP de Pizza | [<!--@include: ./variables/mcp-url.md-->](<!--@include: ./variables/mcp-url.md-->)|
-| Aplicación web de Pizza | [<!--@include: ./variables/pizza-dashboard.md-->](<!--@include: ./variables/pizza-dashboard.md-->)|
-| Sistema de registro | [<!--@include: ./variables/customer-registration.md-->](<!--@include: ./variables/customer-registration.md-->) |
+| Servidor MCP de Pizza | [<!--@include: ../variables/mcp-url.md-->](<!--@include: ./variables/mcp-url.md-->)|
+| Aplicación web de Pizza | [<!--@include: ../variables/pizza-dashboard.md-->](<!--@include: ./variables/pizza-dashboard.md-->)|
+| Sistema de registro | [<!--@include: ../variables/customer-registration.md-->](<!--@include: ./variables/customer-registration.md-->) |
 
 
 ## Descripción General

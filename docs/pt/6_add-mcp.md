@@ -90,7 +90,7 @@ Para fazer pedidos, o agente deve identificar o cliente.
 
 1. **Obtenha seu ID de Usuário**  
    Visite esta URL para registrar um cliente:  
-   [<!--@include: ./variables/customer-registration.md-->](<!--@include: ./variables/customer-registration.md-->)  
+   [<!--@include: ../variables/customer-registration.md-->](<!--@include: ../variables/customer-registration.md-->)  
 
 2. **Atualize seu `instrucoes.txt`** com seus detalhes de usuário ou passe o GUID no chat.
 
@@ -101,7 +101,7 @@ UserId: <SEU GUID DE USUÁRIO>
 ```
 
 3. (Opcional) Visualize seu painel de pedidos:  
-   [<!--@include: ./variables/pizza-dashboard.md-->](<!--@include: ./variables/pizza-dashboard.md-->)
+   [<!--@include: ../variables/pizza-dashboard.md-->](<!--@include: ../variables/pizza-dashboard.md-->)
 
 
 
