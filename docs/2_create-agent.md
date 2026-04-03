@@ -18,13 +18,6 @@ az login --use-device-code
 
 
 
-## Install Required Packages  
-
-Next, install the Python packages needed to work with Microsoft Foundry and manage environment variables:  
-
-```shell
-pip install openai azure-identity azure-ai-projects==2.0.0b1 jsonref python-dotenv
-```
 
 
 ### Create a `.env` File  
